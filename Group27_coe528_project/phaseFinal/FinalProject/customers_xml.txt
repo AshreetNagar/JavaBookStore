@@ -1,0 +1,15 @@
+<customer>
+	<name>user1</name>
+	<points>500</points>
+	<password>ew1</password>
+</customer>
+<customer>
+	<name>user2</name>
+	<points>0</points>
+	<password>ew1</password>
+</customer>
+<customer>
+	<name>user4</name>
+	<points>99</points>
+	<password>user2</password>
+</customer>
